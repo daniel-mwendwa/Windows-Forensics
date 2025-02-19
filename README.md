@@ -8,7 +8,7 @@ This repository contains a comprehensive forensic analysis of Windows systems, b
 - [Tasks Covered](#tasks-covered)
 - [Tools Used](#tools-used)
 - [Key Findings](#key-findings)
-- [Hands-on Challenge](#hands-on-challenge)
+- [Hands-on Challenge](#hands-on-challenge) 
 - [Conclusion](#conclusion)
 - [Resources](#resources)
 

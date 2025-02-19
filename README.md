@@ -50,6 +50,6 @@ This project provided practical experience in Windows forensics, reinforcing ess
 - [SANS Digital Forensics Blog](https://digital-forensics.sans.org/blog/)
 
 ---
-📌 **Author:** Daniel Mwendwa Mwithui  
+📌 **Author:** Daniel Mwendwa Mwithui  - Security Analyst
 📌 **Date:** August 3, 2023  
 📌 **License:** MIT
